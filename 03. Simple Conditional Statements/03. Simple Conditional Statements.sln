@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Bonus Score", "06. Bonu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Sum Seconds", "07. Sum Seconds\07. Sum Seconds.csproj", "{4580534B-72A6-4CB1-90F8-FDBCB93F97F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Metric Converter", "08. Metric Converter\08. Metric Converter.csproj", "{094C034D-5444-4BBC-B5A9-7A919C372375}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{4580534B-72A6-4CB1-90F8-FDBCB93F97F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4580534B-72A6-4CB1-90F8-FDBCB93F97F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4580534B-72A6-4CB1-90F8-FDBCB93F97F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{094C034D-5444-4BBC-B5A9-7A919C372375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{094C034D-5444-4BBC-B5A9-7A919C372375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{094C034D-5444-4BBC-B5A9-7A919C372375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{094C034D-5444-4BBC-B5A9-7A919C372375}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
