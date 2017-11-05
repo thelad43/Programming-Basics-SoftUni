@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Small Shop", "02. Small
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Point in Rectangle", "03. Point in Rectangle\03. Point in Rectangle.csproj", "{630B1763-FEEA-46A3-8E21-2E308A1040E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Fruit or Vegetable", "04. Fruit or Vegetable\04. Fruit or Vegetable.csproj", "{4EB8F35C-8522-48E1-9267-CA665971A232}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{630B1763-FEEA-46A3-8E21-2E308A1040E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{630B1763-FEEA-46A3-8E21-2E308A1040E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{630B1763-FEEA-46A3-8E21-2E308A1040E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EB8F35C-8522-48E1-9267-CA665971A232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EB8F35C-8522-48E1-9267-CA665971A232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EB8F35C-8522-48E1-9267-CA665971A232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EB8F35C-8522-48E1-9267-CA665971A232}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
