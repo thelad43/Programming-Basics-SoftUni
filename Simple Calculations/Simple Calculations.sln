@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Circle Area and Perimet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. 2D Rectangle Area", "07. 2D Rectangle Area\07. 2D Rectangle Area.csproj", "{BE177C8C-0BA8-4A78-A514-A53732660C0F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Triangle Area", "08. Triangle Area\08. Triangle Area.csproj", "{B55EAE36-11A4-4791-90A9-6323DAE96614}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{BE177C8C-0BA8-4A78-A514-A53732660C0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE177C8C-0BA8-4A78-A514-A53732660C0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE177C8C-0BA8-4A78-A514-A53732660C0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B55EAE36-11A4-4791-90A9-6323DAE96614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B55EAE36-11A4-4791-90A9-6323DAE96614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B55EAE36-11A4-4791-90A9-6323DAE96614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B55EAE36-11A4-4791-90A9-6323DAE96614}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
