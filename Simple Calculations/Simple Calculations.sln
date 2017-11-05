@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Greeting by Name", "03.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Concatenate Data", "04. Concatenate Data\04. Concatenate Data.csproj", "{5FE95F52-D037-41F1-AA62-D091B9BE12A5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Trapeziod Area", "05. Trapeziod Area\05. Trapeziod Area.csproj", "{D34F734C-132B-468B-AF6C-6200232B795C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{5FE95F52-D037-41F1-AA62-D091B9BE12A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FE95F52-D037-41F1-AA62-D091B9BE12A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FE95F52-D037-41F1-AA62-D091B9BE12A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D34F734C-132B-468B-AF6C-6200232B795C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D34F734C-132B-468B-AF6C-6200232B795C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D34F734C-132B-468B-AF6C-6200232B795C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D34F734C-132B-468B-AF6C-6200232B795C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
