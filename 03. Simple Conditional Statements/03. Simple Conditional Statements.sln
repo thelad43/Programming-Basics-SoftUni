@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Number 100 To 200", "Nu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Equal Words", "11. Equal Words\11. Equal Words.csproj", "{069368C8-0C2C-4060-828D-1EE0370D9CFC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. Speed Info", "12. Speed Info\12. Speed Info.csproj", "{7E7D2155-CA2D-4978-917C-4C4CC034FC92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{069368C8-0C2C-4060-828D-1EE0370D9CFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{069368C8-0C2C-4060-828D-1EE0370D9CFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{069368C8-0C2C-4060-828D-1EE0370D9CFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E7D2155-CA2D-4978-917C-4C4CC034FC92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E7D2155-CA2D-4978-917C-4C4CC034FC92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E7D2155-CA2D-4978-917C-4C4CC034FC92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E7D2155-CA2D-4978-917C-4C4CC034FC92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
