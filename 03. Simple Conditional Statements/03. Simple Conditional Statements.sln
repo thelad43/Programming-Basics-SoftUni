@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. Speed Info", "12. Speed
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. Area of Figures", "13. Area of Figures\13. Area of Figures.csproj", "{F2F1CE27-733C-4B66-84AA-4EF6F514E3C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14. Time Plus 15 Minutes", "14. Time Plus 15 Minutes\14. Time Plus 15 Minutes.csproj", "{E44B059F-6811-4B4A-B4FE-F59CC32D859A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{F2F1CE27-733C-4B66-84AA-4EF6F514E3C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2F1CE27-733C-4B66-84AA-4EF6F514E3C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2F1CE27-733C-4B66-84AA-4EF6F514E3C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E44B059F-6811-4B4A-B4FE-F59CC32D859A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E44B059F-6811-4B4A-B4FE-F59CC32D859A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E44B059F-6811-4B4A-B4FE-F59CC32D859A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E44B059F-6811-4B4A-B4FE-F59CC32D859A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
