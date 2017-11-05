@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Cinema", "11. Cinema\11
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. Volleyball", "12. Volleyball\12. Volleyball.csproj", "{CADB6EA7-309E-47C2-9F91-EB0D40C7712F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. Point in the Figure", "13. Point in the Figure\13. Point in the Figure.csproj", "{FA0131BC-10E4-4BD4-8EF7-ED850B46ABA0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{CADB6EA7-309E-47C2-9F91-EB0D40C7712F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CADB6EA7-309E-47C2-9F91-EB0D40C7712F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CADB6EA7-309E-47C2-9F91-EB0D40C7712F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA0131BC-10E4-4BD4-8EF7-ED850B46ABA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA0131BC-10E4-4BD4-8EF7-ED850B46ABA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA0131BC-10E4-4BD4-8EF7-ED850B46ABA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA0131BC-10E4-4BD4-8EF7-ED850B46ABA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
