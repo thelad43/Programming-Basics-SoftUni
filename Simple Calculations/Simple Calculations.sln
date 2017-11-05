@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. USD to BGN", "11. USD t
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. Currency Converter", "12. Currency Converter\12. Currency Converter.csproj", "{1269A8FB-8005-4F55-9D52-AD3CEAE4AFFB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. 1000 Days After Birth", "13. 1000 Days After Birth\13. 1000 Days After Birth.csproj", "{8DC6A190-2D62-4F8B-97A7-21037D803256}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{1269A8FB-8005-4F55-9D52-AD3CEAE4AFFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1269A8FB-8005-4F55-9D52-AD3CEAE4AFFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1269A8FB-8005-4F55-9D52-AD3CEAE4AFFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DC6A190-2D62-4F8B-97A7-21037D803256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DC6A190-2D62-4F8B-97A7-21037D803256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DC6A190-2D62-4F8B-97A7-21037D803256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DC6A190-2D62-4F8B-97A7-21037D803256}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
