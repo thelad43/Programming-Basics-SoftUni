@@ -1,15 +1,87 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _02.Small_Shop
+﻿namespace _02.Small_Shop
 {
-    class Program
+    using System;
+
+    public class StartUp
     {
-        static void Main(string[] args)
+        public static void Main()
         {
+            var product = Console.ReadLine();
+            var town = Console.ReadLine();
+            var quantity = double.Parse(Console.ReadLine());
+            var result = 0.0;
+
+            if (town == "Sofia")
+            {
+                if (product == "coffee")
+                {
+                    result = quantity * 0.50;
+                }
+                else if (product == "water")
+                {
+                    result = quantity * 0.80;
+                }
+                else if (product == "beer")
+                {
+                    result = quantity * 1.20;
+                }
+                else if (product == "sweets")
+                {
+                    result = quantity * 1.45;
+                }
+                else
+                {
+                    result = quantity * 1.60;
+                }
+            }
+            else if (town == "Plovdiv")
+            {
+                if (product == "coffee")
+                {
+                    result = quantity * 0.40;
+                }
+                else if (product == "water")
+                {
+                    result = quantity * 0.70;
+                }
+                else if (product == "beer")
+                {
+                    result = quantity * 1.15;
+                }
+                else if (product == "sweets")
+                {
+                    result = quantity * 1.30;
+                }
+                else
+                {
+                    result = quantity * 1.50;
+                }
+            }
+            else
+            {
+                if (product == "coffee")
+                {
+                    result = quantity * 0.45;
+                }
+                else if (product == "water")
+                {
+                    result = quantity * 0.70;
+                }
+                else if (product == "beer")
+                {
+                    result = quantity * 1.10;
+                }
+                else if (product == "sweets")
+                {
+                    result = quantity * 1.35;
+                }
+                else
+                {
+                    result = quantity * 1.55;
+                }
+            }
+
+            Console.WriteLine(result);
         }
     }
 }
