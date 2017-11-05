@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Numbers from 1 to 100", "01. Numbers from 1 to 100\01. Numbers from 1 to 100.csproj", "{D9C1D7AE-B236-453A-B1E8-FBFD42E86385}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Numbers Ending in 7", "02. Numbers Ending in 7\02. Numbers Ending in 7.csproj", "{859BBF35-EC82-4ED3-AF17-3497782AFA55}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D9C1D7AE-B236-453A-B1E8-FBFD42E86385}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9C1D7AE-B236-453A-B1E8-FBFD42E86385}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9C1D7AE-B236-453A-B1E8-FBFD42E86385}.Release|Any CPU.Build.0 = Release|Any CPU
+		{859BBF35-EC82-4ED3-AF17-3497782AFA55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{859BBF35-EC82-4ED3-AF17-3497782AFA55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{859BBF35-EC82-4ED3-AF17-3497782AFA55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{859BBF35-EC82-4ED3-AF17-3497782AFA55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
