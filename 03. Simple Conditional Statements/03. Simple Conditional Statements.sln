@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Excellent or Not", "02.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Even or Odd", "03. Even or Odd\03. Even or Odd.csproj", "{F4774A6C-6D25-431B-992C-7F9FD09C8B01}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Greater Number", "04. Greater Number\04. Greater Number.csproj", "{0F9D2462-436F-4FEE-811D-43C8082CB838}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F4774A6C-6D25-431B-992C-7F9FD09C8B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4774A6C-6D25-431B-992C-7F9FD09C8B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4774A6C-6D25-431B-992C-7F9FD09C8B01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F9D2462-436F-4FEE-811D-43C8082CB838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F9D2462-436F-4FEE-811D-43C8082CB838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F9D2462-436F-4FEE-811D-43C8082CB838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F9D2462-436F-4FEE-811D-43C8082CB838}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
