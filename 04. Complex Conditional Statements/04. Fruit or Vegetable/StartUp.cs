@@ -2,7 +2,7 @@
 {
     using System;
 
-    public class FruitOrVegetable
+    public class StartUp
     {
         public static void Main()
         {
