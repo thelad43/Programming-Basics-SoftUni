@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Invalid Number", "05. I
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Point on Rectangle Border", "06. Point on Rectangle Border\06. Point on Rectangle Border.csproj", "{F7F347D6-090A-4AE7-A991-FAB60826A408}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Fruit Shop", "07. Fruit Shop\07. Fruit Shop.csproj", "{4C13D63D-C00A-439C-87F6-72BD2702B9DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{F7F347D6-090A-4AE7-A991-FAB60826A408}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7F347D6-090A-4AE7-A991-FAB60826A408}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7F347D6-090A-4AE7-A991-FAB60826A408}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C13D63D-C00A-439C-87F6-72BD2702B9DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C13D63D-C00A-439C-87F6-72BD2702B9DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C13D63D-C00A-439C-87F6-72BD2702B9DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C13D63D-C00A-439C-87F6-72BD2702B9DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
