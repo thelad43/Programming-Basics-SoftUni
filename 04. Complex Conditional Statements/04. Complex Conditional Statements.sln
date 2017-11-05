@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Point on Rectangle Bord
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Fruit Shop", "07. Fruit Shop\07. Fruit Shop.csproj", "{4C13D63D-C00A-439C-87F6-72BD2702B9DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Trade Comissions", "08. Trade Comissions\08. Trade Comissions.csproj", "{CD77BAFF-7893-4EE8-A6EC-5C86D37D62B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{4C13D63D-C00A-439C-87F6-72BD2702B9DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C13D63D-C00A-439C-87F6-72BD2702B9DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C13D63D-C00A-439C-87F6-72BD2702B9DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD77BAFF-7893-4EE8-A6EC-5C86D37D62B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD77BAFF-7893-4EE8-A6EC-5C86D37D62B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD77BAFF-7893-4EE8-A6EC-5C86D37D62B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD77BAFF-7893-4EE8-A6EC-5C86D37D62B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
