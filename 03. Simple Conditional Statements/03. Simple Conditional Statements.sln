@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Even or Odd", "03. Even
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Greater Number", "04. Greater Number\04. Greater Number.csproj", "{0F9D2462-436F-4FEE-811D-43C8082CB838}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Number 0 To 9 to Text", "Number 0 To 9 to Text\05. Number 0 To 9 to Text.csproj", "{B640CEE2-0DFC-47A9-AB5E-8FE14590B0E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{0F9D2462-436F-4FEE-811D-43C8082CB838}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F9D2462-436F-4FEE-811D-43C8082CB838}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F9D2462-436F-4FEE-811D-43C8082CB838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B640CEE2-0DFC-47A9-AB5E-8FE14590B0E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B640CEE2-0DFC-47A9-AB5E-8FE14590B0E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B640CEE2-0DFC-47A9-AB5E-8FE14590B0E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B640CEE2-0DFC-47A9-AB5E-8FE14590B0E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
