@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Greater Number", "04. G
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Number 0 To 9 to Text", "Number 0 To 9 to Text\05. Number 0 To 9 to Text.csproj", "{B640CEE2-0DFC-47A9-AB5E-8FE14590B0E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Bonus Score", "06. Bonus Score\06. Bonus Score.csproj", "{05D8C766-908E-4AE7-BD80-47379D3201FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{B640CEE2-0DFC-47A9-AB5E-8FE14590B0E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B640CEE2-0DFC-47A9-AB5E-8FE14590B0E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B640CEE2-0DFC-47A9-AB5E-8FE14590B0E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05D8C766-908E-4AE7-BD80-47379D3201FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05D8C766-908E-4AE7-BD80-47379D3201FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05D8C766-908E-4AE7-BD80-47379D3201FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05D8C766-908E-4AE7-BD80-47379D3201FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
