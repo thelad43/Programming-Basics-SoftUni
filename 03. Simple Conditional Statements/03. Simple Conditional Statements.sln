@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Sum Seconds", "07. Sum 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Metric Converter", "08. Metric Converter\08. Metric Converter.csproj", "{094C034D-5444-4BBC-B5A9-7A919C372375}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Password Guess", "09. Password Guess\09. Password Guess.csproj", "{E570FF90-B8D7-4AC4-8F06-470CB6391DA8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{094C034D-5444-4BBC-B5A9-7A919C372375}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{094C034D-5444-4BBC-B5A9-7A919C372375}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{094C034D-5444-4BBC-B5A9-7A919C372375}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E570FF90-B8D7-4AC4-8F06-470CB6391DA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E570FF90-B8D7-4AC4-8F06-470CB6391DA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E570FF90-B8D7-4AC4-8F06-470CB6391DA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E570FF90-B8D7-4AC4-8F06-470CB6391DA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
