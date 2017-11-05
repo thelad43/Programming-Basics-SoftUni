@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Concatenate Data", "04.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Trapeziod Area", "05. Trapeziod Area\05. Trapeziod Area.csproj", "{D34F734C-132B-468B-AF6C-6200232B795C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Circle Area and Perimeter", "06. Circle Area and Perimeter\06. Circle Area and Perimeter.csproj", "{5AC1F6AB-E03D-4260-9ADC-3E97D8420B88}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{D34F734C-132B-468B-AF6C-6200232B795C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D34F734C-132B-468B-AF6C-6200232B795C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D34F734C-132B-468B-AF6C-6200232B795C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AC1F6AB-E03D-4260-9ADC-3E97D8420B88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AC1F6AB-E03D-4260-9ADC-3E97D8420B88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AC1F6AB-E03D-4260-9ADC-3E97D8420B88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AC1F6AB-E03D-4260-9ADC-3E97D8420B88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
