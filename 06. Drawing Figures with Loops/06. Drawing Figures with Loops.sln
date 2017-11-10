@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. TriangleOfDollars", "04
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. SquareFrame", "05. SquareFrame\05. SquareFrame.csproj", "{A08F6C97-93ED-49E5-B08C-1735D02C5143}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. RhombusOfStars", "06. RhombusOfStars\06. RhombusOfStars.csproj", "{47C3D9C6-89FF-4BBF-A0E5-7788D991F8D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{A08F6C97-93ED-49E5-B08C-1735D02C5143}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A08F6C97-93ED-49E5-B08C-1735D02C5143}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A08F6C97-93ED-49E5-B08C-1735D02C5143}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47C3D9C6-89FF-4BBF-A0E5-7788D991F8D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47C3D9C6-89FF-4BBF-A0E5-7788D991F8D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47C3D9C6-89FF-4BBF-A0E5-7788D991F8D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47C3D9C6-89FF-4BBF-A0E5-7788D991F8D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
