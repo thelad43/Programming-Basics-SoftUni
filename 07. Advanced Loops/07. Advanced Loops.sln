@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Sequence2KPlus1", "05. 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. NumberInRange1To100", "06. NumberInRange1To100\06. NumberInRange1To100.csproj", "{44D3DF6B-A703-44E5-86F3-D369FB7BD746}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. GreatestCommonDivisor", "07. GreatestCommonDivisor\07. GreatestCommonDivisor.csproj", "{183E29B3-5AAC-4A3B-BF42-E75E12F75411}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{44D3DF6B-A703-44E5-86F3-D369FB7BD746}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44D3DF6B-A703-44E5-86F3-D369FB7BD746}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44D3DF6B-A703-44E5-86F3-D369FB7BD746}.Release|Any CPU.Build.0 = Release|Any CPU
+		{183E29B3-5AAC-4A3B-BF42-E75E12F75411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{183E29B3-5AAC-4A3B-BF42-E75E12F75411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{183E29B3-5AAC-4A3B-BF42-E75E12F75411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{183E29B3-5AAC-4A3B-BF42-E75E12F75411}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
