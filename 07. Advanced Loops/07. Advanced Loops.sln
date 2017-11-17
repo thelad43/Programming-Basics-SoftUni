@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. Fibonacci", "12. Fibona
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. NumberPyramid", "13. NumberPyramid\13. NumberPyramid.csproj", "{5076789B-36A1-4403-BA70-A09A2BD41F5A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14. NumberTable", "14. NumberTable\14. NumberTable.csproj", "{EDEF9C04-739C-4CCC-AF3F-74277348AC6C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{5076789B-36A1-4403-BA70-A09A2BD41F5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5076789B-36A1-4403-BA70-A09A2BD41F5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5076789B-36A1-4403-BA70-A09A2BD41F5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDEF9C04-739C-4CCC-AF3F-74277348AC6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDEF9C04-739C-4CCC-AF3F-74277348AC6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDEF9C04-739C-4CCC-AF3F-74277348AC6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDEF9C04-739C-4CCC-AF3F-74277348AC6C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
