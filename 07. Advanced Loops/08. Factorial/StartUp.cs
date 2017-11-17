@@ -1,15 +1,20 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _08.Factorial
+﻿namespace _08.Factorial
 {
-    class Program
+    using System;
+
+    public class StartUp
     {
-        static void Main(string[] args)
+        public static void Main()
         {
+            var n = int.Parse(Console.ReadLine());
+            var result = 1;
+
+            for (int i = 1; i <= n; i++)
+            {
+                result *= i;
+            }
+
+            Console.WriteLine(result);
         }
     }
 }
