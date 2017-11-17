@@ -1,15 +1,21 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _09.SumDigits
+﻿namespace _09.SumDigits
 {
-    class Program
+    using System;
+
+    public class StartUp
     {
-        static void Main(string[] args)
+        public static void Main()
         {
+            var n = int.Parse(Console.ReadLine());
+            var sum = 0;
+
+            while (n != 0)
+            {
+                sum += n % 10;
+                n /= 10;
+            }
+
+            Console.WriteLine(sum);
         }
     }
 }
