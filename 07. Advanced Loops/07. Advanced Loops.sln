@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. NumbersN1", "02. Number
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. PowersOfTwo", "03. PowersOfTwo\03. PowersOfTwo.csproj", "{C1A05FBF-9BB8-40B8-84CE-93B977D3D0CE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. EvenPowersOf2", "04. EvenPowersOf2\04. EvenPowersOf2.csproj", "{BF492DF5-881D-42D2-BDB4-D326DCB6EA68}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C1A05FBF-9BB8-40B8-84CE-93B977D3D0CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1A05FBF-9BB8-40B8-84CE-93B977D3D0CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1A05FBF-9BB8-40B8-84CE-93B977D3D0CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF492DF5-881D-42D2-BDB4-D326DCB6EA68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF492DF5-881D-42D2-BDB4-D326DCB6EA68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF492DF5-881D-42D2-BDB4-D326DCB6EA68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF492DF5-881D-42D2-BDB4-D326DCB6EA68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
