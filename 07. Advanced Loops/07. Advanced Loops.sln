@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Numbers1NWithStep3", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. NumbersN1", "02. NumbersN1\02. NumbersN1.csproj", "{DD9D69B8-5243-4823-BC1E-AF7FC88D1C98}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. PowersOfTwo", "03. PowersOfTwo\03. PowersOfTwo.csproj", "{C1A05FBF-9BB8-40B8-84CE-93B977D3D0CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DD9D69B8-5243-4823-BC1E-AF7FC88D1C98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD9D69B8-5243-4823-BC1E-AF7FC88D1C98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD9D69B8-5243-4823-BC1E-AF7FC88D1C98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1A05FBF-9BB8-40B8-84CE-93B977D3D0CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1A05FBF-9BB8-40B8-84CE-93B977D3D0CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1A05FBF-9BB8-40B8-84CE-93B977D3D0CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1A05FBF-9BB8-40B8-84CE-93B977D3D0CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
