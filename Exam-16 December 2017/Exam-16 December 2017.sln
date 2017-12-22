@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Dwarf Presents", "04. D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Christmas Toy", "05. Christmas Toy\05. Christmas Toy.csproj", "{F1EA8330-C144-40B7-84CC-E4ACACDC7020}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Barcode Generator", "06. Barcode Generator\06. Barcode Generator.csproj", "{C9118B44-BBF9-44C9-99F4-232D87C300FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F1EA8330-C144-40B7-84CC-E4ACACDC7020}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1EA8330-C144-40B7-84CC-E4ACACDC7020}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1EA8330-C144-40B7-84CC-E4ACACDC7020}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9118B44-BBF9-44C9-99F4-232D87C300FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9118B44-BBF9-44C9-99F4-232D87C300FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9118B44-BBF9-44C9-99F4-232D87C300FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9118B44-BBF9-44C9-99F4-232D87C300FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
