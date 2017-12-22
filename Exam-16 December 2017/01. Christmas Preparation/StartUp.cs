@@ -4,9 +4,9 @@
 
     public class StartUp
     {
-        private const double wrappingPaperPriceInLevs = 5.80;
-        private const double materialPriceInLevs = 7.20;
-        private const double gluePricePerLiterInLevs = 1.20;
+        private const double WrappingPaperPriceInLevs = 5.80;
+        private const double MaterialPriceInLevs = 7.20;
+        private const double GluePricePerLiterInLevs = 1.20;
 
         public static void Main()
         {
@@ -15,9 +15,9 @@
             var glueLiters = double.Parse(Console.ReadLine());
             var discountPercentages = int.Parse(Console.ReadLine());
 
-            var priceWrappingPaperRolls = wrappingPaperRollsCount * wrappingPaperPriceInLevs;
-            var priceMaterialRolls = materialRollsCount * materialPriceInLevs;
-            var priceGlue = glueLiters * gluePricePerLiterInLevs;
+            var priceWrappingPaperRolls = wrappingPaperRollsCount * WrappingPaperPriceInLevs;
+            var priceMaterialRolls = materialRollsCount * MaterialPriceInLevs;
+            var priceGlue = glueLiters * GluePricePerLiterInLevs;
 
             var priceForAllMaterials = priceWrappingPaperRolls + priceMaterialRolls + priceGlue;
             var priceWithDiscount = priceForAllMaterials - ((priceForAllMaterials * discountPercentages) / 100);
