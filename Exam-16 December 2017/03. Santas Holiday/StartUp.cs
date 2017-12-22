@@ -40,7 +40,6 @@
 
                 case "president apartment":
                     price = (days - 1) * PricePerDayForPresidentApartment;
-                    //price = (days - 1) * PricePerDayForApartment;
 
                     if (days < 10)
                     {
@@ -60,7 +59,7 @@
                     throw new Exception();
             }
 
-            if(rating == "positive")
+            if (rating == "positive")
             {
                 price = price + 0.25M * price;
             }
