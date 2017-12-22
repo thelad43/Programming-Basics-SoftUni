@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Deer of Santa", "02. De
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Santas Holiday", "03. Santas Holiday\03. Santas Holiday.csproj", "{3B5DFBE2-C73B-4C37-8D8D-0FB93AD41725}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Dwarf Presents", "04. Dwarf Presents\04. Dwarf Presents.csproj", "{8E1C8FAB-9D1C-440A-A109-F68CF6BDB86C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{3B5DFBE2-C73B-4C37-8D8D-0FB93AD41725}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B5DFBE2-C73B-4C37-8D8D-0FB93AD41725}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B5DFBE2-C73B-4C37-8D8D-0FB93AD41725}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E1C8FAB-9D1C-440A-A109-F68CF6BDB86C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E1C8FAB-9D1C-440A-A109-F68CF6BDB86C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E1C8FAB-9D1C-440A-A109-F68CF6BDB86C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E1C8FAB-9D1C-440A-A109-F68CF6BDB86C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
