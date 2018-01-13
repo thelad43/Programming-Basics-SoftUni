@@ -11,9 +11,9 @@
 
             while (b != 0)
             {
-                var temp = b;
+                var oldValue = b;
                 b = a % b;
-                a = temp;
+                a = oldValue;
             }
 
             Console.WriteLine(a);
